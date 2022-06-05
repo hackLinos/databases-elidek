@@ -1,0 +1,21 @@
+
+
+ .query{
+    text-align: center;
+}
+
+ #myHeader{
+    border-style: double;
+    padding: 10px;
+    text-align: center;
+    font-weight: bolder;
+    background-color: lightsalmon;
+ }
+
+ .btn-submit-custom{
+   background-color: coral;
+   padding: 1%;
+   color: white;
+   text-decoration: none;
+   font-weight: bold;
+}

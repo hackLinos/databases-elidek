@@ -1,0 +1,42 @@
+/* Bazoume to style*/
+
+/* CSS for all*/
+
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+    border: 1px  solid red;
+    width: 80%;
+    margin: 0 auto;
+    padding: 1%;
+}
+
+.img-responsive{
+    width: 100%;
+}
+
+.text-right{
+    text-align: right;
+}
+
+/* CSS navbar section */
+.logo{
+    border: 1px solid black;
+    width: 40%;
+
+}
+
+.menu{
+    line-height: 10px;
+}
+
+.menu ul{
+    list-style-type: none;}
+
+.menu ul li{
+    display: inline;
+    font-weight: bold;
+}
+
